@@ -93,7 +93,7 @@ pnpm-global
 .cache
 
 # rollup.js default build output
-dist/
+# dist/
 
 # vitepress build output
 .vitepress/dist
